@@ -121,10 +121,11 @@ span{
     justify-content: space-evenly;
 }
 .box{
-    height: 300px;
+    height: 320px;
     width: 23%;
     padding: 20px 0px 15px;
     margin-top: 15px;
+    background-color: white;
 }
 .box-img{
     height: 250px;
